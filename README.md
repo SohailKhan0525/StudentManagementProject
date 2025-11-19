@@ -116,16 +116,6 @@ Datetime
 
 ---
 
-## 📂 Project Structure
-
-Student-Management-System/
-├── studentmagnmet.py            # CLI version
-├── app.py             # Streamlit web app
-├── students.json      # Auto-generated database
-└── README.md
-
-
----
 
 ## ▶️ How to Run (CLI Version)
 
