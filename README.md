@@ -9,7 +9,7 @@ This system allows you to add, update, view, delete, search, filter, import, exp
 
 ## 🌐 Live Web App (Streamlit)
 
-👉 Deployed Link: 
+👉 Deployed Link: https://studentmanagementproject-ulj54ytmcyj55upzakbzhn.streamlit.app/
 
 
 ---
